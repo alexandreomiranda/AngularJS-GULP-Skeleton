@@ -1,4 +1,4 @@
 # Angularjs + GULP Skeleton
 
-https://github.com/alexandreomiranda/AngularJS-GULP-Skeleton
+http://alexandreomiranda.com/blog/?p=614
 
